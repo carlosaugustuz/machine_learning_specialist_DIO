@@ -1,0 +1,31 @@
+# Arquivos de sistema operacional
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Arquivos de ambiente virtual
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Arquivos de dados
+data/ # Ignora toda a pasta "data"
+*.csv
+*.json
+*.sqlite
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração sensíveis
+config.ini
+secrets.json
+.env
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Pastas de notebooks Jupyter
+.ipynb_checkpoints/
