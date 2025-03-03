@@ -20,9 +20,7 @@ O curso inclui:
 
 ## Conteúdo do Repositório
 
-* `data/`: Conjuntos de dados utilizados nos projetos.
-* `notebooks/`: Notebooks Jupyter com o código desenvolvido durante o curso.
-* `scripts/`: Scripts Python (.py) utilizados nos projetos.
+* `desafio 1 - Transfer Learning/`: Dados e códigos do desafio 1  - Transfer Learning.
 * `README.md`: Este arquivo.
 
 ## Como Usar Este Repositório
