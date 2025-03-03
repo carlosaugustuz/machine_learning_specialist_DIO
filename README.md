@@ -1,6 +1,8 @@
 # Machine Learning Specialist - DIO
 
 Este repositório contém os projetos e atividades desenvolvidos durante o curso "Machine Learning Specialist" da Digital Innovation One (DIO).
+
+
 ![Machine Learning Specialist-DIO](https://assets.dio.me/OTzqoUcfTvgJRGhPlCoXZXzVWpFQB5yO-pygSZ_CTv8/f:webp/h:120/q:80/L3RyYWNrcy9iMTkzMDhmZi05NDMxLTQ4ZTktOWM3Yi01Y2YwMWRkNWVjMjQucG5n
 )
 
