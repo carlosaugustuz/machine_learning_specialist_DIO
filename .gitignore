@@ -29,3 +29,5 @@ secrets.json
 
 # Pastas de notebooks Jupyter
 .ipynb_checkpoints/
+
+.gitignore
