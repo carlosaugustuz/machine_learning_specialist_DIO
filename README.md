@@ -28,7 +28,7 @@ O curso inclui:
 1.  Clone este repositório:
 
     ```bash
-    git clone [https://github.com/carlosaugustuz/machine_learning_specialist_DIO.git](git clone https://github.com/carlosaugustuz/machine_learning_specialist_DIO.git)
+    git clone git clone https://github.com/carlosaugustuz/machine_learning_specialist_DIO.git
     ```
 
 2.  Navegue até o diretório do projeto desejado:
