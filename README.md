@@ -20,7 +20,8 @@ O curso inclui:
 
 ## Conteúdo do Repositório
 
-* `desafio 1 - Transfer Learning/`: Dados e códigos do desafio 1  - Transfer Learning.
+* `desafio 1 - Transfer Learning/`: Dados e códigos do desafio 1 - Transfer Learning.
+* `desafio 2 - Redução de Dimensionalidade em imagens/`: Dados e códigos do desafio 2 - Redução de Dimensionalidade em imagens.
 * `README.md`: Este arquivo.
 
 ## Como Usar Este Repositório
@@ -48,5 +49,5 @@ O curso inclui:
 ## Autor
 
 * Carlos Augusto Pereira de Souza
-* [LinkedIn](https://www.linkedin.com/in/carlos-augusto-pereira-de-souza-74059124/)
+* [LinkedIn](https://www.linkedin.com/in/carlosaugustuz)
 * [GitHub](https://github.com/carlosaugustuz)
