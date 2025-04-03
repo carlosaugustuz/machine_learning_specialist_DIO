@@ -20,8 +20,10 @@ O curso inclui:
 
 ## Conteúdo do Repositório
 
-* `desafio 1 - Transfer Learning/`: Dados e códigos do desafio 1 - Transfer Learning.
-* `desafio 2 - Redução de Dimensionalidade em imagens/`: Dados e códigos do desafio 2 - Redução de Dimensionalidade em imagens.
+* `Desafio 1 - Transfer Learning/`: Dados e códigos do desafio 1 - Transfer Learning.
+* `Desafio 2 - Redução de Dimensionalidade em imagens/`: Dados e códigos do desafio 2 - Redução de Dimensionalidade em imagens.
+* `Desafio 3 - Cálculo de Métricas de Avaliação de Aprendizado/` : Dados e códigos do desafio 3 - Cálculo de Métricas de Avaliação de Aprendizado.
+* `Desafio 4 - Base de Dados e Treinamento da Rede YOLO/` : Dados e códigos do desafio 4 - Base de Dados e Treinamento da Rede YOLO.
 * `README.md`: Este arquivo.
 
 ## Como Usar Este Repositório
